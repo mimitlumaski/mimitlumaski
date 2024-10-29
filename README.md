@@ -14,7 +14,7 @@ Aqui estão algumas ideias para você começar:
 
 👸
 
-![alura](www.alura.com.br)
+[alura](www.alura.com.br)
 
 
 ![](https://media.tenor.com/FgH_yP41T4sAAAAM/messi-and-neymar.gif)
